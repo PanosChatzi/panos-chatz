@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Panos Chatzinikolaou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: School of Physical Education and Sport Science
+  url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
