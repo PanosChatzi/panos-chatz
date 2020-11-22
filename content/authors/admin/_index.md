@@ -44,9 +44,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanosChatz1
-- icon: 
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/panagiotischatzinick/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
+- icon: researchgate
   icon_pack: ai
-  link: 
+  link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
 - icon: github
   icon_pack: fab
   link: https://github.com/PanosChatzi
