@@ -10,7 +10,7 @@ role: PhD researcher
 
 # Organizations/Affiliations
 organizations:
-- name: School of Physical Education and Sport Science
+- name: School of Physical Education and Sport Science at Serres
   url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
@@ -30,7 +30,7 @@ education:
     institution: Aristotle University of Thessaloniki
     year: 2019
   - course: BSc in Physical Education and Sport Science
-    institution: National and Kapodistrian University of Thesssaloniki
+    institution: National and Kapodistrian University of Athens
     year: 2017
 
 # Social/Academic Networking
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD student in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation in fatigue: a quantitative approach".
+Panagiotis Chatzinikolaou is a PhD student in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
 
 
