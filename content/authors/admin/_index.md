@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Panos Chatzinikolaou
+title: Panagiotis Chatzinikolaou
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ organizations:
   url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include muscle oxygenation and fatigue in health and disease.
 
 interests:
 - Muscle oxygenation
@@ -43,13 +43,13 @@ social:
   link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/PanosChatz1
+- icon: 
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/PanosChatzi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Panagiotis Chatzinikolaou is a PhD student in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation in fatigue: a quantitative approach".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
