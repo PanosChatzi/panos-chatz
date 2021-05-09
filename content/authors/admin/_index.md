@@ -23,7 +23,7 @@ interests:
 
 education:
   courses:
-  - course: PhD student in Exercise Physiology
+  - course: PhD researcher in Exercise Physiology
     institution: Aristotle University of Thessaloniki
     year: 2020
   - course: MSc in Human Performance and Health
@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD student in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen transport, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
 
 
