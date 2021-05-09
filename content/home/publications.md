@@ -24,7 +24,7 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
+   [content.filters]
     tag = ""
     category = ""
     publication_type = ""
@@ -67,6 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+ {{% callout note %}}
+ Quickly discover relevant content by [filtering publications](./publication/).
+ {{% /callout %}}
