@@ -14,11 +14,14 @@ organizations:
   url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include muscle oxygenation and fatigue in health and disease.
+bio: My field of study is in exercise physiology with a focus on quantitative redox biology of exercise.
 
 interests:
-- Muscle oxygenation
+- Redox biology
+- Sports nutrition
+- Oxygen delivery
 - Muscle fatigue
+- Quantitative methods in exercise biology
 - Rstats
 
 education:
