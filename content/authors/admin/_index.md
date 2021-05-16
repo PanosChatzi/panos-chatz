@@ -20,7 +20,6 @@ interests:
 - Redox biology
 - Sports nutrition
 - Oxygen delivery
-- Muscle fatigue
 - Quantitative methods in exercise biology
 - R programming
 
@@ -43,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '/#contact'  # For a direct email link, use "mailto:chatzinpn@phed-sr.auth.gr".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanosChatz1
@@ -61,9 +60,9 @@ social:
   link: https://github.com/PanosChatzi
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# icon: cv
-#  icon_pack: ai
-#  link: "D:/Programs/Hugo/Sites/Myacademic/panos-chatz/static/files/Greek CV- PC.pdf"
+- icon: cv
+  icon_pack: ai
+  link: "static/files/Greek CV-PC.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -78,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. He is also passionate about about programming with R and implementing computational approaches in exercise biology. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. He is also passionate about programming with R and implementing computational approaches in exercise biology. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
 
 
