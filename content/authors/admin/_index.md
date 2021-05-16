@@ -22,7 +22,7 @@ interests:
 - Oxygen delivery
 - Muscle fatigue
 - Quantitative methods in exercise biology
-- Rstats
+- R programming
 
 education:
   courses:
@@ -47,9 +47,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanosChatz1
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/panagiotischatzinick/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=el
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
@@ -78,6 +78,6 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen transport, muscle oxygenation, antioxidant supplementation and fatigue. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. He is also passionate about about programming with R and implementing computational approaches in exercise biology. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
 
 
