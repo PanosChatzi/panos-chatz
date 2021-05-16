@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/files/Greek CV-PC.pdf
+  link: {{% staticref "static/files/Greek CV-PC.pdf" %}}Download my CV{{% /staticref %}}
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
