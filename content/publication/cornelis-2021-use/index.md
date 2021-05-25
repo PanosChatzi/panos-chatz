@@ -15,8 +15,8 @@ authors:
 - Véronique Cornelissen
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-05-09T18:34:14+03:00
+date: '2021-05-01'
+lastmod: 2021-05-25T18:22:43+03:00
 featured: false
 draft: false
 
@@ -34,9 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-05-09T15:34:12.420235Z'
+publishDate: '2021-05-25T15:22:42.684224Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Journal of Vascular and Endovascular Surgery*'
+publication: '*Eur. J. Vasc. Endovasc. Surg.*'
+doi: 10.1016/j.ejvs.2021.02.008
 ---

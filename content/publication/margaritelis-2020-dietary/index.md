@@ -6,21 +6,21 @@ title: Dietary Cysteine Intake is Associated with Blood Glutathione Levels and I
 subtitle: ''
 summary: ''
 authors:
-- Nikos V Margaritelis
-- Panagiotis N Chatzinikolaou
-- Flora V Bousiou
-- Vasiliki J Malliou
-- Sousana K Papadopoulou
+- Nikos V. Margaritelis
+- Panagiotis N. Chatzinikolaou
+- Flora V. Bousiou
+- Vasiliki J. Malliou
+- Sousana K. Papadopoulou
 - Panagiota Potsaki
-- Anastasios A Theodorou
+- Anastasios A. Theodorou
 - Antonios Kyparos
-- Nikos D Geladas
-- Michalis G Nikolaidis
+- Nikos D. Geladas
+- Michalis G. Nikolaidis
 - Vassilis Paschalis
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-22T16:16:04+02:00
+date: '2021-05-01'
+lastmod: 2021-05-25T18:22:44+03:00
 featured: false
 draft: false
 
@@ -38,9 +38,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-22T14:16:02.587900Z'
+publishDate: '2021-05-25T15:22:43.862814Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*International Journal of Sports Medicine*'
+publication: '*Int. J. Sports Med.*'
+doi: 10.1055/a-1255-2863
 ---

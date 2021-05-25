@@ -6,16 +6,16 @@ title: 'Eccentric exercise per se does not affect muscle damage biomarkers: earl
 subtitle: ''
 summary: ''
 authors:
-- Nikos V Margaritelis
-- Anastasios A Theodorou
-- Panagiotis N Chatzinikolaou
+- Nikos V. Margaritelis
+- Anastasios A. Theodorou
+- Panagiotis N. Chatzinikolaou
 - Antonios Kyparos
-- Michalis G Nikolaidis
+- Michalis G. Nikolaidis
 - Vassilis Paschalis
 tags: []
 categories: []
-date: '2020-01-01'
-lastmod: 2020-11-23T16:39:46+02:00
+date: '2021-02-01'
+lastmod: 2021-05-25T18:22:46+03:00
 featured: false
 draft: false
 
@@ -33,9 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-11-23T14:39:44.572447Z'
+publishDate: '2021-05-25T15:22:45.102785Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*European Journal of Applied Physiology*'
+publication: '*Eur. J. Appl. Physiol.*'
+doi: 10.1007/s00421-020-04528-w
 ---
