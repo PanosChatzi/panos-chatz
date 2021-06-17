@@ -22,6 +22,7 @@ interests:
 - Oxygen delivery
 - Exercise physiology
 - R programming
+- Systems biology
 
 education:
   courses:
@@ -77,6 +78,8 @@ user_groups:
 - Visitors
 ---
 
-Panagiotis Chatzinikolaou is a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. His research interests include oxygen delivery, muscle oxygenation, antioxidant supplementation and fatigue. He is also passionate about programming with R and implementing computational approaches in exercise biology. The title of his PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. My research interests include oxygen delivery, antioxidant supplementation and fatigue. I am also passionate about programming with R and implementing systems biology and computational approaches in exercise biology. The title of my PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+
+For a complete list of my work please check my Resume section.
 
 
