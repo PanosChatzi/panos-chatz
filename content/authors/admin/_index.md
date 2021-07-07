@@ -78,8 +78,9 @@ user_groups:
 - Visitors
 ---
 
+For a complete list of my work please check my Resume section.
+
 I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. My research interests include oxygen delivery, antioxidant supplementation and fatigue. I am also passionate about programming with R and implementing systems biology and computational approaches in exercise biology. The title of my PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
 
-For a complete list of my work please check my Resume section.
 
 
