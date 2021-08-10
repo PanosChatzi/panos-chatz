@@ -49,7 +49,7 @@ social:
   link: https://twitter.com/PanosChatz1
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=el
+  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
