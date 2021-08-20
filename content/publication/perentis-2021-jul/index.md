@@ -1,21 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Eccentric exercise per se does not affect muscle damage biomarkers: early
-  and late phase adaptations'
+title: The Effects of High-Intensity Interval Exercise on Skeletal Muscle and Cerebral
+  Oxygenation during Cycling and Isokinetic Concentric and Eccentric Exercise
 subtitle: ''
 summary: ''
 authors:
+- Panagiotis A. Perentis
+- Evgenia D. Cherouveim
+- Vassiliki J. Malliou
 - Nikos V. Margaritelis
-- Anastasios A. Theodorou
 - Panagiotis N. Chatzinikolaou
-- Antonios Kyparos
+- Panayiotis Koulouvaris
+- Charilaos Tsolakis
 - Michalis G. Nikolaidis
+- Nickos D. Geladas
 - Vassilis Paschalis
 tags: []
 categories: []
-date: '2021-02-01'
-lastmod: 2021-05-25T18:22:46+03:00
+date: '2021-07-01'
+lastmod: 2021-08-20T14:31:09+03:00
 featured: false
 draft: false
 
@@ -33,10 +37,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-20T11:37:50.943177Z'
+publishDate: '2021-08-20T11:37:46.931644Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Eur. J. Appl. Physiol.*'
-doi: 10.1007/s00421-020-04528-w
+publication: '*J. Funct. Morphol. Kinesiol.*'
+doi: 10.3390/jfmk6030062
 ---
