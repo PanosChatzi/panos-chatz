@@ -1,22 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The redox signal: A physiological perspective'
+title: Acute L-Citrulline Supplementation Increases Nitric Oxide Bioavailability but
+  Not Inspiratory Muscle Oxygenation and Respiratory Performance
 subtitle: ''
 summary: ''
 authors:
-- Nikos V. Margaritelis
-- Panagiotis N. Chatzinikolaou
-- Alexandros N. Chatzinikolaou
-- Vassilis Paschalis
 - Anastasios A. Theodorou
-- Ioannis S. Vrabas
-- Antonios Kyparos
-- Michalis G. Nikolaidis
+- Panagiotis T. Zinelis
+- Vassiliki J. Malliou
+- Panagiotis N. Chatzinikolaou
+- Nikos V. Margaritelis
+- Dimitris Mandalidis
+- Nickos D. Geladas
+- Vassilis Paschalis
 tags: []
 categories: []
 date: '2021-09-01'
-lastmod: 2021-09-06T19:23:51+03:00
+lastmod: 2021-09-23T11:45:28+03:00
 featured: false
 draft: false
 
@@ -34,10 +35,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-09-23T08:45:28.641096Z'
+publishDate: '2021-09-23T08:45:26.599731Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*IUBMB Life*'
-doi: 10.1002/iub.2550
+publication: '*Nutrients*'
+doi: 10.3390/nu13103311
 ---
