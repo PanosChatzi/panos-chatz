@@ -18,11 +18,11 @@ bio: My field of study is in exercise physiology with a focus on quantitative re
 
 interests:
 - Quantitative redox biology
-- Sports nutrition
-- Oxygen delivery
-- Exercise physiology
-- R programming
 - Systems biology
+- Oxygen delivery
+- Sports nutrition
+- R programming
+
 
 education:
   courses:
