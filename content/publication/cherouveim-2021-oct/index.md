@@ -1,23 +1,28 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Acute L-Citrulline Supplementation Increases Nitric Oxide Bioavailability but
-  Not Inspiratory Muscle Oxygenation and Respiratory Performance
+title: Skeletal muscle and cerebral oxygenation levels during and after submaximal
+  concentric and eccentric isokinetic exercise
 subtitle: ''
 summary: ''
 authors:
-- Anastasios A. Theodorou
-- Panagiotis T. Zinelis
-- Vassiliki J. Malliou
-- Panagiotis N. Chatzinikolaou
+- Evgenia D. Cherouveim
 - Nikos V. Margaritelis
-- Dimitris Mandalidis
-- Nickos D. Geladas
+- Panagiotis Koulouvaris
+- Charis Tsolakis
+- Vasiliki J. Malliou
+- Panagiotis N. Chatzinikolaou
+- Martino V. Franchi
+- Simone Porcelli
+- Antonios Kyparos
+- Ioannis S. Vrabas
+- Nikos D. Geladas
+- Michalis G. Nikolaidis
 - Vassilis Paschalis
 tags: []
 categories: []
-date: '2021-09-01'
-lastmod: 2021-09-23T11:45:28+03:00
+date: '2021-10-01'
+lastmod: 2021-10-04T12:57:25+03:00
 featured: false
 draft: false
 
@@ -35,10 +40,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-04T09:57:25.688155Z'
+publishDate: '2021-10-04T09:57:23.851100Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nutrients*'
-doi: 10.3390/nu13103311
+publication: '*J. Sports Sci.*'
+doi: 10.1080/02640414.2021.1983248
 ---
