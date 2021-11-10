@@ -27,8 +27,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * Cardiopulmonary exercise tests and physical fitness assessments in patients with cardiovascular diseases.
-  * Processing and analysis of muscle oxygenation (near-infrared spectroscopy) data.
+  * Cardiopulmonary exercise tests and functional capacity assessments in patients with cardiovascular diseases.
+  * Processing and analysis of muscle oxygenation data.
   * Participated in journal clubs and weekly lab meetings.
   """
 

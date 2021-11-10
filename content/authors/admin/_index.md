@@ -17,11 +17,11 @@ organizations:
 bio: My field of study is in exercise physiology with a focus on quantitative redox biology of exercise.
 
 interests:
-- Quantitative redox biology
-- Systems biology
-- Oxygen delivery
-- Sports nutrition
+- Redox biology of exercise
+- Quantitative methods
 - R programming
+- Data visualization
+- Science communication
 
 
 education:
@@ -78,9 +78,11 @@ user_groups:
 - Visitors
 ---
 
-For a complete list of my work please check my Resume section.
+I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece. My research interests include oxygen transport and delivery, sports nutrition, exercise performance and fatigue. I am also passionate about programming with R and science communication.
 
-I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki. My research interests include oxygen delivery, antioxidant supplementation and fatigue. I am also passionate about programming with R and implementing systems biology and computational approaches in exercise biology. The title of my PhD project is: "Redox effects of exercise and antioxidant supplementation on fatigue: a quantitative approach".
+In my project I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
+
+You can read more in my Resume section.
 
 
 
