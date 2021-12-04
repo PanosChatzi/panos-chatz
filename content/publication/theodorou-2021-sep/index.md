@@ -9,7 +9,7 @@ authors:
 - Anastasios A. Theodorou
 - Panagiotis T. Zinelis
 - Vassiliki J. Malliou
-- Panagiotis N. Chatzinikolaou
+- admin
 - Nikos V. Margaritelis
 - Dimitris Mandalidis
 - Nickos D. Geladas
@@ -17,7 +17,7 @@ authors:
 tags: []
 categories: []
 date: '2021-09-01'
-lastmod: 2021-09-23T11:45:28+03:00
+lastmod: 2021-12-03T18:10:57+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-04T09:57:25.688155Z'
+publishDate: '2021-12-03T16:10:53.655162Z'
 publication_types:
 - '2'
 abstract: ''

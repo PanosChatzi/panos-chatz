@@ -8,14 +8,14 @@ summary: ''
 authors:
 - Nikos V. Margaritelis
 - Anastasios A. Theodorou
-- Panagiotis N. Chatzinikolaou
+- admin
 - Antonios Kyparos
 - Michalis G. Nikolaidis
 - Vassilis Paschalis
 tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-05-25T18:22:46+03:00
+lastmod: 2021-12-03T18:11:13+02:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-04T09:57:31.155676Z'
+publishDate: '2021-12-03T16:11:11.067261Z'
 publication_types:
 - '2'
 abstract: ''
