@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Panagiotis Chatzinikolaou
+title: Panagiotis N. Chatzinikolaou
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD researcher
+role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Panagiotis Chatzinikolaou # Website name
+title: Panagiotis N. Chatzinikolaou # Website name
 baseurl: 'https://panagiotis-chatzinick.netlify.app/' # Website URL
-copyright: 'Panagiotis Chatzinikolaou © 2021 ' # Footer text, e.g. '© {year} Me'
+copyright: 'Panagiotis N. Chatzinikolaou © 2021 ' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
