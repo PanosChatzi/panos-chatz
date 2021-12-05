@@ -24,7 +24,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.s
 image:
-  caption: 'Image credit: *Nikos V. Margaritelis*'
+  caption: 'Infographic by *Nikos V. Margaritelis*'
   focal_point: ''
   preview_only: false
 
