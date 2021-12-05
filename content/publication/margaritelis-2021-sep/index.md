@@ -22,9 +22,9 @@ draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.s
 image:
-  caption: ''
+  caption: 'Image credit: *Nikos V. Margaritelis*'
   focal_point: ''
   preview_only: false
 
