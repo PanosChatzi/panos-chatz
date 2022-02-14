@@ -18,11 +18,10 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Redox biology of exercise
-- Quantitative methods
+- Quantitative redox biology
 - R programming
 - Data visualization
-- Science communication
+- <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
 
 
 # Education to show in About widget
