@@ -10,7 +10,7 @@ role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Physical Education and Sport Science
+- name: School of Physical Education and Sports Science
   url: "https://phed-sr.auth.gr/en"
 
 # Short bio (displayed in user profile at end of posts)
