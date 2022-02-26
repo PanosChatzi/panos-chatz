@@ -77,6 +77,6 @@ highlight_name: true
 
 I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece. My research interests include oxygen transport and delivery, sports nutrition, exercise performance and fatigue. I am also passionate about programming with R and science communication.
 
-In my project I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
+In my project, I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
