@@ -25,7 +25,7 @@ experience:
   - title: Visiting researcher
     company: KU Leuven
     company_url: ''
-    company_logo: ''
+    company_logo: KU_Leuven_logo
     location: Leuven, Belgium
     date_start: '2020-01-15'
     date_end: '2020-07-15'
@@ -39,7 +39,7 @@ experience:
   - title: Research internship
     company: Humboldt University of Berlin
     company_url: ''
-    company_logo: ''
+    company_logo: Huberlin-logo
     location: Berlin, Germany
     date_start: '2019-09-15'
     date_end: '2019-12-15'
