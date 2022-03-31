@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Visiting researcher
+    company: Loughborough University
+    company_url: ''
+    company_logo: Lboro_logo
+    location: Loughborough, UK
+    date_start: '2022-03-10'
+    date_end: ''
+    description: |2-
+
+  - title: Visiting researcher
     company: KU Leuven
     company_url: ''
     company_logo: KU_Leuven_logo
