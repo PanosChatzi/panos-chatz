@@ -47,18 +47,26 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/PanosChatz1
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
+- icon: google-scholar  # Alternatively, use `google-scholar` from 'ai' or 'graduation-cap' icon from `fas` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en  
+- icon: publons
+  icon_pack: ai
+  link: https://publons.com/researcher/3938583/panagiotis-chatzinikolaou/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-8136-1638
 - icon: github
   icon_pack: fab
   link: https://github.com/PanosChatzi
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
+
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
