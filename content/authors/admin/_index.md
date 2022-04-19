@@ -56,9 +56,9 @@ social:
 - icon: publons
   icon_pack: ai
   link: https://publons.com/researcher/3938583/panagiotis-chatzinikolaou/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-8136-1638
+#- icon: orcid
+#  icon_pack: ai
+#  link: https://orcid.org/0000-0002-8136-1638
 - icon: github
   icon_pack: fab
   link: https://github.com/PanosChatzi
