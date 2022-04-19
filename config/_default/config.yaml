@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Panagiotis N. Chatzinikolaou # Website name
-baseurl: 'https://panagiotis-chatzinick.netlify.app/' # Website URL
+baseURL: 'https://panagiotis-chatzinick.netlify.app/' # Website URL
 copyright: 'Panagiotis N. Chatzinikolaou © 2022 ' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -66,3 +66,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
+security:
+  _merge: deep
+sitemap:
+  _merge: deep

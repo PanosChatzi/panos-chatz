@@ -28,7 +28,7 @@ experience:
     company_logo: Lboro_logo
     location: Loughborough, UK
     date_start: '2022-03-10'
-    date_end: ''
+    date_end: '2022-04-13'
     description: |2-
 
   - title: Visiting researcher
@@ -58,7 +58,6 @@ experience:
         * Ultrasound imaging during isokinetic dynamometry and treadmill tests.
         * Kinematic analysis of treadmill walking and running.
         * Image and video analysis of the muscle-tendon unit.
-
 design:
   columns: '2'
 ---
