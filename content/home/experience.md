@@ -30,6 +30,7 @@ experience:
     date_start: '2022-03-10'
     date_end: '2022-04-13'
     description: |2-
+      Successful recipient of the program "Greek-British Cooperation on Short-Term Scholarships".
 
   - title: Visiting researcher
     company: KU Leuven
