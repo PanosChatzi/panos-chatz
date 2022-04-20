@@ -25,7 +25,7 @@ experience:
   - title: Visiting researcher
     company: Loughborough University
     company_url: ''
-    company_logo: Lboro_logo
+    company_logo: lborologo2
     location: Loughborough, UK
     date_start: '2022-03-10'
     date_end: '2022-04-13'
