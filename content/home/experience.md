@@ -24,17 +24,17 @@ date_format: Jan 2006
 experience:
   - title: Visiting researcher
     company: Loughborough University
-    company_url: ''
-    company_logo: lborologo2
+    company_url: 'https://www.lboro.ac.uk/departments/ssehs/'
+    company_logo: lborologo3
     location: Loughborough, UK
     date_start: '2022-03-10'
     date_end: '2022-04-13'
     description: |2-
-      Successful recipient of the program "Greek-British Cooperation on Short-Term Scholarships".
+      Successful recipient of the scholarship *"Greek-British Cooperation on Short-Term Scholarships"*.
 
   - title: Visiting researcher
     company: KU Leuven
-    company_url: ''
+    company_url: 'https://gbiomed.kuleuven.be/english/research/50000743/cvrrg/cvru'
     company_logo: KU_Leuven_logo
     location: Leuven, Belgium
     date_start: '2020-01-15'
@@ -48,7 +48,7 @@ experience:
         
   - title: Research internship
     company: Humboldt University of Berlin
-    company_url: ''
+    company_url: 'https://www.spowi.hu-berlin.de/en/institut-en/tbw-en'
     company_logo: Huberlin-logo
     location: Berlin, Germany
     date_start: '2019-09-15'
