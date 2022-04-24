@@ -5,7 +5,7 @@ title: 'Oxygen Transport : A Redox O2dyssey'
 subtitle: ''
 summary: ''
 authors:
-- P. N. Chatzinikolaou
+- admin
 - N. V. Margaritelis
 - A. N. Chatzinikolaou
 - V. Paschalis
