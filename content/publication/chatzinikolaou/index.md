@@ -24,7 +24,7 @@ tags: []
 categories: []
 date: -01-01
 lastmod: 2022-04-24T20:24:08+03:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
