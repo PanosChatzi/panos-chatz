@@ -22,7 +22,8 @@ bio: My research interests include erythrocyte metabolism, oxygen transport and 
 
 # Interests to show in About widget
 interests:
-  - Quantitative redox biology
+  - Quantitative biology
+  - Erythrocyte metabolism
   - R programming
   - Data visualization
   - <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
@@ -81,8 +82,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece. My research interests include oxygen transport and delivery, sports nutrition, exercise performance and fatigue. I am also passionate about programming with R and science communication.
+I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece. My research interests include redox biology, erythrocyte metabolism, oxygen transport, exercise performance and fatigue. I am also passionate about R programming and science communication.
 
-In my project, I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
+In my project, I am studying the effects of exercise-induced oxidative stress on oxygen delivery and fatigue. My higher aim is to implement systems biology and computational methods in the fields of exercise physiology and biochemistry.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
