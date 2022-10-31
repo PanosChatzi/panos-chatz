@@ -14,7 +14,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  
+
   # Email form provider
   form:
     provider: netlify
@@ -22,16 +22,16 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: active
 
   # Contact details (edit or remove options as required)
   #email: chatzinpn@phed-sr.auth.gr
-  #phone: ""
- # address:
+  #phone: 888 888 88 88
+  #address:
   #  street: 450 Serra Mall
   #  city: Stanford
-   # region: CA
-   # postcode: '94305'
+  #  region: CA
+  #  postcode: '94305'
   #  country: United States
   #  country_code: US
   #coordinates:
@@ -41,7 +41,7 @@ content:
   #office_hours:
   #  - 'Monday 10:00 to 13:00'
   #  - 'Wednesday 09:00 to 10:00'
- # appointment_url: 'https://calendly.com'
+  #appointment_url: 'https://calendly.com'
   contact_links:
   - icon: envelope
     icon_pack: fas
@@ -51,7 +51,6 @@ content:
     icon_pack: fab
     name: Follow me on Twitter
     link: 'https://twitter.com/PanosChatz1'  
-      
 
 design:
   columns: '2'

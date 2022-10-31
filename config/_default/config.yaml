@@ -5,7 +5,7 @@
 
 title: Panagiotis N. Chatzinikolaou # Website name
 baseURL: 'https://panagiotis-chatzinick.netlify.app/' # Website URL
-copyright: 'Panagiotis N. Chatzinikolaou © 2022 ' # Footer text, e.g. '© {year} Me'
+# copyright: '© 2022 Panagiotis N. Chatzinikolaou' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
@@ -22,8 +22,10 @@ removePathAccents: true
 
 module:
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
-    - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-reveal
+    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy/v5
 
 ############################
 ## ADVANCED
@@ -69,4 +71,6 @@ related:
 security:
   _merge: deep
 sitemap:
+  _merge: deep
+minify:
   _merge: deep

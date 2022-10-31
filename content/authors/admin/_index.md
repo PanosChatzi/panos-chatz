@@ -2,6 +2,10 @@
 # Display name
 title: Panagiotis N. Chatzinikolaou
 
+# Full name (for SEO)
+first_name: Panagiotis
+last_name: Chatzinikolaou
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -10,18 +14,18 @@ role: PhD Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: School of Physical Education and Sports Science
-  url: https://phed-sr.auth.gr/en
+  - name: School of Physical Education and Sports Science
+    url: https://phed-sr.auth.gr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include erythrocyte metabolism, oxygen transport and R programming.
 
 # Interests to show in About widget
 interests:
-- Quantitative redox biology
-- R programming
-- Data visualization
-- <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
+  - Quantitative redox biology
+  - R programming
+  - Data visualization
+  - <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
 
 # Education to show in About widget
 education:
@@ -41,42 +45,37 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: "mailto:chatzinpn@phed-sr.auth.gr"
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/PanosChatz1
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
-- icon: google-scholar  # Alternatively, use `google-scholar` from 'ai' or 'graduation-cap' icon from `fas` icon pack
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en  
-#- icon: publons
-#  icon_pack: ai
-#  link: https://publons.com/researcher/3938583/panagiotis-chatzinikolaou/
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-8136-1638
-- icon: github
-  icon_pack: fab
-  link: https://github.com/PanosChatzi
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
-
-
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:chatzinpn@phed-sr.auth.gr'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/PanosChatz1
+    label: Follow me on Twitter
+    display:
+      header: true
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=N7g7KxcAAAAJ&hl=en
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/PanosChatzi
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/panagiotis-chatzinikolaou-594319168/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -86,4 +85,4 @@ I am a PhD candidate in exercise physiology at Aristotle University of Thessalon
 
 In my project, I am studying the redox effects of exercise and antioxidant supplementation on fatigue following a quantitative approach. My aim is to implement systems biology and computational methods in the field of exercise physiology.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}Resume{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
