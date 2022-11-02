@@ -37,7 +37,7 @@ education:
   - course: MSc in Human Performance and Health
     institution: Aristotle University of Thessaloniki
     year: 2019
-  - course: BSc in Physical Education and Sport Science
+  - course: BSc in Sports Science
     institution: National and Kapodistrian University of Athens
     year: 2017
 
@@ -46,9 +46,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:chatzinpn@phed-sr.auth.gr'
+ # - icon: envelope
+ #   icon_pack: fas
+ #   link: 'mailto:chatzinpn@phed-sr.auth.gr'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/PanosChatz1
@@ -61,6 +61,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-8136-1638
   - icon: github
     icon_pack: fab
     link: https://github.com/PanosChatzi
