@@ -16,6 +16,10 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
+  - description: 50%
+    icon: python
+    icon_pack: fab
+    name: Python
   - description: 70%
     icon: r-project
     icon_pack: fab
@@ -24,10 +28,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Visualization
-  - description: 100%
-    icon: mug-hot
-    icon_pack: fa
-    name: Coffee
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
