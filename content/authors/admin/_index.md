@@ -10,7 +10,7 @@ last_name: Chatzinikolaou
 superuser: true
 
 # Role/position/tagline
-role: PhD Researcher
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -31,7 +31,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD researcher in Exercise Physiology
+  - course: PhD Candidate in Exercise Physiology
     institution: Aristotle University of Thessaloniki
     year: 2020
   - course: MSc in Human Performance and Health
