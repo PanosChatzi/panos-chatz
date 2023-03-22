@@ -5,7 +5,7 @@ title: 'Oxygen Transport : A Redox O2dyssey'
 subtitle: ''
 summary: ''
 authors:
-- admin
+- P. N. Chatzinikolaou
 - N. V. Margaritelis
 - A. N. Chatzinikolaou
 - V. Paschalis
@@ -24,7 +24,7 @@ tags: []
 categories: []
 date: -01-01
 lastmod: 2022-04-24T20:24:08+03:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -41,7 +41,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-24T17:24:06.205323Z'
+publishDate: '2023-03-22T11:24:31.905386Z'
 publication_types:
 - '6'
 abstract: ''

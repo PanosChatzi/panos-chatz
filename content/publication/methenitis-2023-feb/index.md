@@ -1,31 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Near infrared spectroscopy to evaluate the effect of a hybrid exercise programme
-  on peripheral muscle metabolism in patients with intermittent claudication: an exploratory
-  PROSECO-IC sub study'
+title: The effects of chronic concentric and eccentric training on position sense
+  and joint reaction angle of the knee extensors
 subtitle: ''
 summary: ''
 authors:
-- Nils Cornelis
-- Panagiotis N. Chatzinikolaou
-- Roselien Buys
-- Camille De Wilde
-- Inge Fourneau
-- Jomme Claes
-- Kaatje Goetschalckx
-- Véronique Cornelissen
+- S. Methenitis
+- A. A. Theodorou
+- P. N. Chatzinikolaou
+- N. V. Margaritelis
+- M. G. Nikolaidis
+- V. Paschalis
 tags: []
 categories: []
-date: '2022-03-01'
-lastmod: 2022-03-12T12:53:50+02:00
+date: '2023-02-01'
+lastmod: 2023-03-22T13:24:31+02:00
 featured: false
 draft: false
-
-# Author notes
-author_notes:
-- Equal contribution
-- Equal contribution
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-22T11:24:33.169856Z'
+publishDate: '2023-03-22T11:24:29.997127Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Sports Sci.*'
-doi: 10.1080/02640414.2022.2045062
+publication: '*European Journal of Sport Science*'
+doi: 10.1080/17461391.2023.2184726
 ---

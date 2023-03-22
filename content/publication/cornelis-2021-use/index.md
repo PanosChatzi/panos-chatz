@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nils Cornelis
-- admin
+- Panagiotis Chatzinikolaou
 - Roselien Buys
 - Inge Fourneau
 - Jomme Claes
@@ -17,13 +17,13 @@ tags: []
 categories: []
 date: '2021-05-01'
 lastmod: 2021-12-03T18:11:08+02:00
-featured: true
+featured: false
 draft: false
 
 # Author notes
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- Equal contribution
+- Equal contribution
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,7 +39,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-03T16:11:05.491978Z'
+publishDate: '2023-03-22T11:24:39.193495Z'
 publication_types:
 - '2'
 abstract: ''

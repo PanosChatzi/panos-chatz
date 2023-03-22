@@ -11,7 +11,7 @@ authors:
 - Panagiotis Koulouvaris
 - Charis Tsolakis
 - Vasiliki J. Malliou
-- admin
+- Panagiotis N. Chatzinikolaou
 - Martino V. Franchi
 - Simone Porcelli
 - Antonios Kyparos
@@ -40,7 +40,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-03T16:10:49.917473Z'
+publishDate: '2023-03-22T11:24:34.385753Z'
 publication_types:
 - '2'
 abstract: ''

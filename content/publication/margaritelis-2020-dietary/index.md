@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nikos V. Margaritelis
-- admin
+- Panagiotis N. Chatzinikolaou
 - Flora V. Bousiou
 - Vasiliki J. Malliou
 - Sousana K. Papadopoulou
@@ -19,7 +19,7 @@ authors:
 - Vassilis Paschalis
 tags: []
 categories: []
-date: '2021-04-01'
+date: '2021-05-01'
 lastmod: 2021-12-03T18:11:10+02:00
 featured: false
 draft: false
@@ -38,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-03T16:11:08.766678Z'
+publishDate: '2023-03-22T11:24:40.351041Z'
 publication_types:
 - '2'
 abstract: ''

@@ -10,7 +10,7 @@ authors:
 - Evgenia D. Cherouveim
 - Vassiliki J. Malliou
 - Nikos V. Margaritelis
-- admin
+- Panagiotis N. Chatzinikolaou
 - Panayiotis Koulouvaris
 - Charilaos Tsolakis
 - Michalis G. Nikolaidis
@@ -37,7 +37,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-03T16:11:01.875067Z'
+publishDate: '2023-03-22T11:24:38.063051Z'
 publication_types:
 - '2'
 abstract: ''
