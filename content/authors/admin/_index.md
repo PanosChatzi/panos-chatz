@@ -61,6 +61,9 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Panagiotis_Chatzinikolaou4
+  - icon: publons
+    icon_pack: ai
+    link: https://www.webofscience.com/wos/author/record/ABD-9285-2021
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-8136-1638
