@@ -8,7 +8,7 @@ summary: ''
 authors:
 - S. Methenitis
 - A. A. Theodorou
-- admin
+- P. N. Chatzinikolaou
 - N. V. Margaritelis
 - M. G. Nikolaidis
 - V. Paschalis
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-03-22T11:24:29.997127Z'
+publishDate: '2023-05-25T17:16:43.612715Z'
 publication_types:
 - '2'
 abstract: ''
