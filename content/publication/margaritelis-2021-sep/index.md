@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nikos V. Margaritelis
-- Panagiotis N. Chatzinikolaou
+- Admin
 - Alexandros N. Chatzinikolaou
 - Vassilis Paschalis
 - Anastasios A. Theodorou

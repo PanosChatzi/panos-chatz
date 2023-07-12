@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nils Cornelis
-- Panagiotis Chatzinikolaou
+- Admin
 - Roselien Buys
 - Inge Fourneau
 - Jomme Claes

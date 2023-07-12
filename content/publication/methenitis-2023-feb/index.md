@@ -8,7 +8,7 @@ summary: ''
 authors:
 - S. Methenitis
 - A. A. Theodorou
-- P. N. Chatzinikolaou
+- Admin
 - N. V. Margaritelis
 - M. G. Nikolaidis
 - V. Paschalis

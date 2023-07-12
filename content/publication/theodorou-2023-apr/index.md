@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anastasios A. Theodorou
-- Panagiotis N. Chatzinikolaou
+- Admin
 - Nikos V. Margaritelis
 - Filippos Christodoulou
 - Themistoklis Tsatalas

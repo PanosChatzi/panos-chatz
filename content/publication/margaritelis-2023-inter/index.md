@@ -9,7 +9,7 @@ authors:
 - Nikos V Margaritelis
 - George G Nastos
 - Olga Vasileiadou
-- Panagiotis N Chatzinikolaou
+- Admin
 - Anastasios A Theodorou
 - Vassilis Paschalis
 - Ioannis S Vrabas
@@ -42,4 +42,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Acta Physiologica*'
+doi: https://doi.org/10.1111/apha.14017
 ---

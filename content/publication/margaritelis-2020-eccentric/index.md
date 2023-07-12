@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Nikos V. Margaritelis
 - Anastasios A. Theodorou
-- Panagiotis N. Chatzinikolaou
+- Admin
 - Antonios Kyparos
 - Michalis G. Nikolaidis
 - Vassilis Paschalis
