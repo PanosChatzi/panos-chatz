@@ -43,7 +43,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:39.913162Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Journal of Sports Sciences*'
 doi: 10.1080/02640414.2022.2045062

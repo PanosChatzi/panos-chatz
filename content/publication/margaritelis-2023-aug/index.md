@@ -39,7 +39,6 @@ image:
 projects: []
 publishDate: '2023-10-24T10:24:11.485896Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Acta Physiologica*'
 doi: 10.1111/apha.14017

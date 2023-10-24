@@ -40,7 +40,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:52.817754Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*International Journal of Sports Medicine*'
 doi: 10.1055/a-1255-2863

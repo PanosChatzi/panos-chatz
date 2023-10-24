@@ -36,7 +36,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:46.641885Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*IUBMB Life*'
 doi: 10.1002/iub.2550

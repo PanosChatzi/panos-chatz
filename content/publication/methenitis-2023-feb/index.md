@@ -35,7 +35,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:36.044357Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*European Journal of Sport Science*'
 doi: 10.1080/17461391.2023.2184726

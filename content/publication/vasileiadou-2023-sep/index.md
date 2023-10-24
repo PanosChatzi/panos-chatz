@@ -35,7 +35,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:32.212341Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Antioxidants*'
 doi: 10.3390/antiox12091738

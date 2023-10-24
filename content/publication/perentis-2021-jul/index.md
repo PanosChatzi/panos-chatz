@@ -39,7 +39,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:48.548152Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Journal of Functional Morphology and Kinesiology*'
 doi: 10.3390/jfmk6030062

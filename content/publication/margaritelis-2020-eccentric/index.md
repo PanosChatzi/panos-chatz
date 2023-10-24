@@ -35,7 +35,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:55.173636Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*European Journal of Applied Physiology*'
 doi: 10.1007/s00421-020-04528-w

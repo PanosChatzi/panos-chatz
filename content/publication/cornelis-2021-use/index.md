@@ -41,7 +41,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:50.415382Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*European Journal of Vascular and Endovascular Surgery*'
 doi: 10.1016/j.ejvs.2021.02.008

@@ -36,7 +36,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:37.806965Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Oxidative Eustress in Exercise Physiology*'
 doi: 10.1201/9781003051619-4

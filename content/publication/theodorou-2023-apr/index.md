@@ -35,7 +35,6 @@ image:
 projects: []
 publishDate: '2023-10-23T17:52:34.232489Z'
 publication_types:
-- '2'
 abstract: ''
 publication: '*Nutrients*'
 doi: 10.3390/nu15081951
