@@ -52,6 +52,8 @@ education:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
   - name: Technical
+    color:
+    color_border:
     items:
     - name: R
       description: ''
