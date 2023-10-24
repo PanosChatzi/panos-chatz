@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nikos V. Margaritelis
-- Admin
+- admin
 - Alexandros N. Chatzinikolaou
 - Vassilis Paschalis
 - Anastasios A. Theodorou
@@ -16,13 +16,13 @@ authors:
 tags: []
 categories: []
 date: '2021-09-01'
-lastmod: 2021-12-03T18:11:00+02:00
+lastmod: 2023-10-23T20:52:48+03:00
 featured: true
 draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.s
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
   focal_point: ''
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:49.919301Z'
+publishDate: '2023-10-23T17:52:46.641885Z'
 publication_types:
 - '2'
 abstract: ''

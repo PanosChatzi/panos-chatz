@@ -7,7 +7,7 @@ subtitle: ''
 summary: ''
 authors:
 - Anastasios A. Theodorou
-- Admin
+- admin
 - Nikos V. Margaritelis
 - Filippos Christodoulou
 - Themistoklis Tsatalas
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2023-04-01'
-lastmod: 2023-05-25T20:16:43+03:00
+lastmod: 2023-10-23T20:52:35+03:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:41.800847Z'
+publishDate: '2023-10-23T17:52:34.232489Z'
 publication_types:
 - '2'
 abstract: ''

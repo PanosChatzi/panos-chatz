@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nils Cornelis
-- Admin
+- admin
 - Roselien Buys
 - Inge Fourneau
 - Jomme Claes
@@ -16,8 +16,8 @@ authors:
 tags: []
 categories: []
 date: '2021-05-01'
-lastmod: 2021-12-03T18:11:08+02:00
-featured: false
+lastmod: 2023-10-23T20:52:52+03:00
+featured: true
 draft: false
 
 # Author notes
@@ -39,10 +39,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:52.465366Z'
+publishDate: '2023-10-23T17:52:50.415382Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Eur. J. Vasc. Endovasc. Surg.*'
+publication: '*European Journal of Vascular and Endovascular Surgery*'
 doi: 10.1016/j.ejvs.2021.02.008
 ---

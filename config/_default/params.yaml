@@ -18,11 +18,13 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
+    description: 'Panagiotis N. Chatzinikolaou academic website. My research focuses on erythrocyte metabolism and exercise physiology'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
+    google_tag_manager: ''
+    microsoft_clarity: ''  
   verification:
     google: ''
     baidu: ''

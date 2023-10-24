@@ -11,7 +11,7 @@ authors:
 - Panagiotis Koulouvaris
 - Charis Tsolakis
 - Vasiliki J. Malliou
-- Admin
+- admin
 - Martino V. Franchi
 - Simone Porcelli
 - Antonios Kyparos
@@ -22,7 +22,7 @@ authors:
 tags: []
 categories: []
 date: '2021-10-01'
-lastmod: 2021-12-03T18:10:53+02:00
+lastmod: 2023-10-23T20:52:44+03:00
 featured: false
 draft: false
 
@@ -40,10 +40,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:47.488964Z'
+publishDate: '2023-10-23T17:52:42.384811Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Sports Sci.*'
+publication: '*Journal of Sports Sciences*'
 doi: 10.1080/02640414.2021.1983248
 ---

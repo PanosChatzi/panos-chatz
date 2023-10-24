@@ -8,7 +8,7 @@ subtitle: ''
 summary: ''
 authors:
 - Nils Cornelis
-- Admin
+- admin
 - Roselien Buys
 - Camille De Wilde
 - Inge Fourneau
@@ -18,7 +18,7 @@ authors:
 tags: []
 categories: []
 date: '2022-03-01'
-lastmod: 2022-03-12T12:53:50+02:00
+lastmod: 2023-10-23T20:52:42+03:00
 featured: true
 draft: false
 
@@ -41,10 +41,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:46.301927Z'
+publishDate: '2023-10-23T17:52:39.913162Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Sports Sci.*'
+publication: '*Journal of Sports Sciences*'
 doi: 10.1080/02640414.2022.2045062
 ---

@@ -10,7 +10,7 @@ authors:
 - Evgenia D. Cherouveim
 - Vassiliki J. Malliou
 - Nikos V. Margaritelis
-- Admin
+- admin
 - Panayiotis Koulouvaris
 - Charilaos Tsolakis
 - Michalis G. Nikolaidis
@@ -19,7 +19,7 @@ authors:
 tags: []
 categories: []
 date: '2021-07-01'
-lastmod: 2021-12-03T18:11:05+02:00
+lastmod: 2023-10-23T20:52:50+03:00
 featured: false
 draft: false
 
@@ -37,10 +37,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:51.203671Z'
+publishDate: '2023-10-23T17:52:48.548152Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*J. Funct. Morphol. Kinesiol.*'
+publication: '*Journal of Functional Morphology and Kinesiology*'
 doi: 10.3390/jfmk6030062
 ---

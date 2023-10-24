@@ -8,14 +8,14 @@ summary: ''
 authors:
 - Nikos V. Margaritelis
 - Anastasios A. Theodorou
-- Admin
+- admin
 - Antonios Kyparos
 - Michalis G. Nikolaidis
 - Vassilis Paschalis
 tags: []
 categories: []
 date: '2021-02-01'
-lastmod: 2021-12-03T18:11:13+02:00
+lastmod: 2023-10-23T20:52:57+03:00
 featured: false
 draft: false
 
@@ -33,10 +33,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-25T17:16:54.939005Z'
+publishDate: '2023-10-23T17:52:55.173636Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Eur. J. Appl. Physiol.*'
+publication: '*European Journal of Applied Physiology*'
 doi: 10.1007/s00421-020-04528-w
 ---

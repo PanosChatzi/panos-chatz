@@ -1,26 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Inter-individual variability in redox and performance responses after antioxidant
-  supplementation: A randomized double blind crossover study'
+title: 'Oxygen Transport : A Redox O2dyssey'
 subtitle: ''
 summary: ''
 authors:
-- Nikos V Margaritelis
-- George G Nastos
-- Olga Vasileiadou
-- Admin
-- Anastasios A Theodorou
-- Vassilis Paschalis
-- Ioannis S Vrabas
-- Antonios Kyparos
-- Ioannis G Fatouros
-- Michalis G Nikolaidis
+- admin
+- N. V. Margaritelis
+- A. N. Chatzinikolaou
+- V. Paschalis
+- A. A. Theodorou
+- I. S. Vrabas
+- A. Kyparos
+- M. G. Nikolaidis
 tags: []
 categories: []
-date: '2023-07-03'
-lastmod: 2023-07-12T13:58:53+03:00
-featured: false
+date: '2022-06-01'
+lastmod: 2023-10-23T20:52:39+03:00
+featured: true
 draft: false
 
 # Featured image
@@ -37,10 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-12T10:58:50.152366Z'
+publishDate: '2023-10-23T17:52:37.806965Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Acta Physiologica*'
-doi: https://doi.org/10.1111/apha.14017
+publication: '*Oxidative Eustress in Exercise Physiology*'
+doi: 10.1201/9781003051619-4
 ---
