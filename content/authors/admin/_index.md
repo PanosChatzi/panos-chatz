@@ -57,19 +57,24 @@ skills:
     items:
     - name: R
       description: ''
-      percent: 80
+      percent: 85
       icon: r-project
       icon_pack: fab
     - name: Statistics
       description: ''
       percent: 80
+      icon: chart-column
+      icon_pack: fas
+    - name: Visualization
+      description:
+      percent: 80
       icon: chart-line
       icon_pack: fas
-    - name: Python
+    - name: Matlab
       description: ''
-      percent: 40
-      icon: python
-      icon_pack: fab
+      percent: 55
+      icon: laptop-code
+      icon_pack: fa
 #  - name: Modeling
 #    color: '#eeac02'
 #    color_border: '#f0bf23'

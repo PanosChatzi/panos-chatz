@@ -17,7 +17,7 @@ tags: []
 categories: []
 date: '2021-05-01'
 lastmod: 2023-10-23T20:52:52+03:00
-featured: true
+featured: false
 draft: false
 
 # Author notes

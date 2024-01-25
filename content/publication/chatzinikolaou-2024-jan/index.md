@@ -1,31 +1,24 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Near infrared spectroscopy to evaluate the effect of a hybrid exercise programme
-  on peripheral muscle metabolism in patients with intermittent claudication: an exploratory
-  PROSECO-IC sub study'
+title: Erythrocyte metabolism
 subtitle: ''
 summary: ''
 authors:
-- Nils Cornelis
 - admin
-- Roselien Buys
-- Camille De Wilde
-- Inge Fourneau
-- Jomme Claes
-- Kaatje Goetschalckx
-- Véronique Cornelissen
+- Nikos V. Margaritelis
+- Vassilis Paschalis
+- Anastasios A. Theodorou
+- Ioannis S. Vrabas
+- Antonios Kyparos
+- Angelo D'Alessandro
+- Michalis G. Nikolaidis
 tags: []
 categories: []
-date: '2022-03-01'
-lastmod: 2023-10-23T20:52:42+03:00
-featured: false
+date: '2024-01-01'
+lastmod: 2024-01-25T20:56:41+02:00
+featured: true
 draft: false
-
-# Author notes
-author_notes:
-- Equal contribution
-- Equal contribution
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -41,9 +34,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-23T17:52:39.913162Z'
+publishDate: '2024-01-25T18:56:40.305188Z'
 publication_types:
+- '2'
 abstract: ''
-publication: '*Journal of Sports Sciences*'
-doi: 10.1080/02640414.2022.2045062
+publication: '*Acta Physiologica*'
+doi: 10.1111/apha.14081
 ---
