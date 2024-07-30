@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Researcher in Exercise Physiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,22 +25,22 @@ organizations:
     url: https://phed-sr.auth.gr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include erythrocyte metabolism, oxygen transport and R programming.
+bio: Exercise Physiology Researcher.
 
 # Interests to show in About widget
 interests:
-  - Quantitative biology
+  - Quantitative biology of exercise
   - Erythrocyte metabolism
+  - Oxygen transport and fatigue
   - R programming
-  - Data visualization
   - <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD Candidate in Exercise Physiology
+  - course: PhD in Exercise Physiology
     institution: Aristotle University of Thessaloniki
-    year: 2020
+    year: 2024
   - course: MSc in Human Performance and Health
     institution: Aristotle University of Thessaloniki
     year: 2019
@@ -51,7 +51,7 @@ education:
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: # title for skills section
     color:
     color_border:
     items:
@@ -59,6 +59,11 @@ skills:
       description: ''
       percent: 85
       icon: r-project
+      icon_pack: fab
+    - name: Python
+      description: ''
+      percent: 55
+      icon: python
       icon_pack: fab
     - name: Statistics
       description: ''
@@ -70,11 +75,7 @@ skills:
       percent: 80
       icon: chart-line
       icon_pack: fas
-    - name: Matlab
-      description: ''
-      percent: 55
-      icon: laptop-code
-      icon_pack: fa
+
 #  - name: Modeling
 #    color: '#eeac02'
 #    color_border: '#f0bf23'
@@ -138,9 +139,7 @@ social:
 highlight_name: true
 ---
 
-I am a PhD candidate in exercise physiology at Aristotle University of Thessaloniki, Greece. My research interests include redox biology, erythrocyte metabolism, oxygen transport, exercise performance and fatigue. I am also passionate about R programming, data visualization and science communication.
-
-In my PhD, I am investigating the effects of exercise-induced oxidative stress on erythrocyte glycolysis and redox metabolism, and the effect on muscle oxygenation and exercise performance. My higher aim is to implement systems biology and computational methods in the fields of exercise physiology and biochemistry.
+I have PhD in exercise physiology from Aristotle University of Thessaloniki, Greece. In my PhD, I investigated the role of the erythrocyte glycolytic and redox metabolism in muscle oxygenation and exercise performance, by combining experimental and computational approaches. I am also interested in R programming, data analysis and visualization, and science communication.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {style="text-align: justify;"}
