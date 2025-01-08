@@ -139,7 +139,7 @@ social:
 highlight_name: true
 ---
 
-I have PhD in exercise physiology from Aristotle University of Thessaloniki, Greece. In my PhD, I investigated the role of the erythrocyte glycolytic and redox metabolism in muscle oxygenation and exercise performance, by combining experimental and computational approaches. I am also interested in R programming, data analysis and visualization, and science communication.
+I have a PhD in exercise physiology from Aristotle University of Thessaloniki, Greece. In my PhD, I investigated the role of the erythrocyte glycolytic and redox metabolism in muscle oxygenation and exercise performance, by combining experimental and computational approaches. I am also interested in R and Python programming, data analysis, visualization, and science communication.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {style="text-align: justify;"}
