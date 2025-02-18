@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher in Exercise Physiology
+role: PhD in Exercise Physiology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,14 +25,14 @@ organizations:
     url: https://phed-sr.auth.gr/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: Exercise Physiology Researcher.
+bio: Exercise Physiology, PhD.
 
 # Interests to show in About widget
 interests:
   - Quantitative biology of exercise
   - Erythrocyte metabolism
   - Oxygen transport and fatigue
-  - R programming
+  - Statistical programming
   - <a href="https://www.springer.com/journal/421/editors">Social Media Ambassador of the European Journal of Applied Physiology (Springer - Nature)</a>
 
 # Education to show in About widget
@@ -62,7 +62,7 @@ skills:
       icon_pack: fab
     - name: Python
       description: ''
-      percent: 55
+      percent: 60
       icon: python
       icon_pack: fab
     - name: Statistics
@@ -139,7 +139,7 @@ social:
 highlight_name: true
 ---
 
-I have a PhD in exercise physiology from Aristotle University of Thessaloniki, Greece. In my PhD, I investigated the role of the erythrocyte glycolytic and redox metabolism in muscle oxygenation and exercise performance, by combining experimental and computational approaches. I am also interested in R and Python programming, data analysis, visualization, and science communication.
+I have a PhD in exercise physiology from Aristotle University of Thessaloniki, Greece. In my PhD, I investigated the role of the erythrocyte glycolytic and redox metabolism in muscle oxygenation and exercise performance, by combining experimental and computational approaches. I am also interested in R and Python for statistical programming, data analysis and visualization.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 {style="text-align: justify;"}
